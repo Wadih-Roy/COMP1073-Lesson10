@@ -25,6 +25,16 @@
         "clover honey"
       ],
       "image" : "peach-mango.svg"
+    },
+    {
+      "name" : "Rainbow Strawberry",
+      "calories" : 350,
+      "type" : "ice cream",
+      "ingredients" : [
+        "Strawberry IceCream",
+        "Multi coloured Sprinkles"
+      ],
+      "image" : "peach-mango.svg"
     }
   ]
 }
