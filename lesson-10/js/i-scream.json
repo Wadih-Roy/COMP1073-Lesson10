@@ -35,6 +35,16 @@
         "Multi coloured Sprinkles"
       ],
       "image" : "strawberry-sprinkle.svg"
+    },
+    {
+      "name" : "Vanilla Sprinkles",
+      "calories" : 400,
+      "type" : "ice cream",
+      "ingredients" : [
+        "Strawberry IceCream",
+        "Multi coloured Sprinkles"
+      ],
+      "image" : "ice-cream-xtra2.svg"
     }
   ]
 }
