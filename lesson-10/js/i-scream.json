@@ -28,13 +28,13 @@
     },
     {
       "name" : "Rainbow Strawberry",
-      "calories" : 350,
+      "calories" : 500,
       "type" : "ice cream",
       "ingredients" : [
         "Strawberry IceCream",
         "Multi coloured Sprinkles"
       ],
-      "image" : "peach-mango.svg"
+      "image" : "strawberry-sprinkle.svg"
     }
   ]
 }
